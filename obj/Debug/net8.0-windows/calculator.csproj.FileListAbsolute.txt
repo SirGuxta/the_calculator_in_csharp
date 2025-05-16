@@ -1,0 +1,14 @@
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.cs
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\della\Documents\CS\desafios_desktop\calculator\bin\Debug\net8.0-windows\calculator.exe
+C:\Users\della\Documents\CS\desafios_desktop\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+C:\Users\della\Documents\CS\desafios_desktop\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+C:\Users\della\Documents\CS\desafios_desktop\calculator\bin\Debug\net8.0-windows\calculator.dll
+C:\Users\della\Documents\CS\desafios_desktop\calculator\bin\Debug\net8.0-windows\calculator.pdb
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\calculator.dll
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\calculator.pdb
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+C:\Users\della\Documents\CS\desafios_desktop\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
